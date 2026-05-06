@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab3_bai4\\x64\\Debug\\cArray.h.obj",
+            "outputs": [
+                "C:\\c++\\lab3_bai4\\lab3_bai4\\x64\\Debug\\vc145.pdb",
+                "lab3_bai4\\x64\\Debug\\",
+                "C:\\c++\\lab3_bai4\\lab3_bai4\\x64\\Debug\\cArray.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "cArray.h",
+                    "source-path": "c:\\c++\\lab3_bai4\\carray.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

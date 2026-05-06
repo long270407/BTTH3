@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab3_bai4\\x64\\Debug\\cArray.obj",
+            "outputs": [
+                "lab3_bai4\\x64\\Debug\\cArray.h_F628BCFA1A654CC6.ifc.dt.module.json",
+                "lab3_bai4\\x64\\Debug\\cArray.h_F628BCFA1A654CC6.ifc.dt.d.json",
+                "lab3_bai4\\x64\\Debug\\cArray.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\c++\\lab3_bai4\\cArray.h",
+                    "source-path": "c:\\c++\\lab3_bai4\\carray.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+﻿  Scanning sources for module dependencies...
+  cArray.h
+  Compiling...
+  cArray.h
+  cArray.cpp
+C:\c++\lab3_bai4\cArray.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  lab3_bai4.vcxproj -> C:\c++\lab3_bai4\x64\Debug\lab3_bai4.exe
