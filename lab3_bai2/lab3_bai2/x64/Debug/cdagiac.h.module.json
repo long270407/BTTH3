@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab3_bai2\\x64\\Debug\\cDaGiac.h.obj",
+            "outputs": [
+                "C:\\c++\\lab3_bai2\\lab3_bai2\\x64\\Debug\\vc145.pdb",
+                "lab3_bai2\\x64\\Debug\\",
+                "C:\\c++\\lab3_bai2\\lab3_bai2\\x64\\Debug\\cDaGiac.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "cDaGiac.h",
+                    "source-path": "c:\\c++\\lab3_bai2\\cdagiac.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

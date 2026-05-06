@@ -1,0 +1,8 @@
+﻿  cTamGiac.cpp
+C:\c++\lab3_bai1\tamgiac\cTamGiac.cpp(6,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\c++\lab3_bai1\tamgiac\cTamGiac.cpp(17,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\c++\lab3_bai1\tamgiac\cTamGiac.cpp(53,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\c++\lab3_bai1\tamgiac\cTamGiac.cpp(81,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  tamgiac.vcxproj -> C:\c++\lab3_bai1\tamgiac\x64\Debug\tamgiac.exe

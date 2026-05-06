@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab3_bai5\\x64\\Debug\\cDaThuc.h.obj",
+            "outputs": [
+                "C:\\c++\\lab3_bai5\\lab3_bai5\\x64\\Debug\\vc145.pdb",
+                "lab3_bai5\\x64\\Debug\\",
+                "C:\\c++\\lab3_bai5\\lab3_bai5\\x64\\Debug\\cDaThuc.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "cDaThuc.h",
+                    "source-path": "c:\\c++\\lab3_bai5\\cdathuc.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

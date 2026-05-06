@@ -1,0 +1,6 @@
+﻿  Scanning sources for module dependencies...
+  cDaGiac.cpp
+C:\c++\lab3_bai2\cDaGiac.cpp(6,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\c++\lab3_bai2\cDaGiac.cpp(14,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\c++\lab3_bai2\cDaGiac.cpp(67,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab3_bai2.vcxproj -> C:\c++\lab3_bai2\x64\Debug\lab3_bai2.exe

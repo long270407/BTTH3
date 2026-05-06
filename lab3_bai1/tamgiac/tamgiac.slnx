@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tamgiac.vcxproj" Id="267d7f70-aec7-4494-baa1-a094c8e99e03" />
+</Solution>
