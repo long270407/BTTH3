@@ -1,0 +1,10 @@
+﻿  Scanning sources for module dependencies...
+  cDaThuc.h
+  Compiling...
+  cDaThuc.h
+C:\c++\lab3_bai5\cDaThuc.h(4,11): warning C5260: the constant variable 'MAX' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  cDaThuc.cpp
+C:\c++\lab3_bai5\cDaThuc.cpp(61,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  lab3_bai5.vcxproj -> C:\c++\lab3_bai5\x64\Debug\lab3_bai5.exe
